@@ -11,7 +11,7 @@ This Weather App is a simple web application that allows users to check the curr
 - **Humidity and Wind Speed:** View additional details such as humidity and wind speed.
 - **User-friendly Interface:** Intuitive design for a seamless user experience.
 
-## Demo : https://www.loom.com/share/bd46cdcc03a34cc1b72493f6487ed612
+
 
 ## Installation
 
@@ -19,9 +19,9 @@ Follow these steps to set up and run the Weather App on your local machine:
 
 ### Prerequisites
 
-1. **Node.js:** Ensure that Node.js is installed on your machine. You can download it from [https://nodejs.org/](https://nodejs.org/).
+1. **Node.js:** Ensure that Node.js is installed on your machine.
 
-2. **API Key:** Obtain a free API key from a weather API provider. This app uses the OpenWeatherMap API, and you can get a key by signing up at [https://openweathermap.org/api](https://openweathermap.org/api).
+2. **API Key:** Obtain a free API key from a weather API provider. This app uses the OpenWeatherMap API.
 
 ### Setup
 
@@ -70,10 +70,6 @@ You can customize the app's behavior by modifying the following configuration op
 
 If you would like to contribute to the development of this Weather App, please follow the guidelines in CONTRIBUTING.md.❤️
 
-## License
 
-This Weather App is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to update this README file with any additional information or specific details related to your project.🙌
